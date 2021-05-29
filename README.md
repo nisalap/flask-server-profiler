@@ -38,11 +38,11 @@ Also each request will be saved to a .prof file in the same directory.
 ## Visualize the profiling
 You can use snakeviz for this.
 - Install snakeviz with
-  ```
+```
   pip install snakeviz
 ```
 - Run snakeviz in the directory same as the .prof files
-  ```
+```
   snakeviz .
 ```
 - Click the link on the console and open it in a browser. 
